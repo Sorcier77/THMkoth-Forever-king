@@ -7,7 +7,7 @@
 # Command: 
 #         sudo bash <script-file>
 
-NAME=Cipher007  #change this
+NAME=Sorcier77  #change this
 PASS=seriously!   #change this
 IP=10.10.10.10    #change this
 PORT=4444       #change this
