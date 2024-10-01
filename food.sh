@@ -9,7 +9,7 @@
 
 NAME=Sorcier77  #change this
 PASS=seriously!   #change this
-IP=10.10.10.10    #change this
+IP=10.11.107.136    #change this
 PORT=4444       #change this
 PASS1=lmaoo!    #changethis
 
